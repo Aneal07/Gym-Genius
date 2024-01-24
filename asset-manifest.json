@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gymgenuis/static/css/main.f1ec92ad.css",
+    "main.js": "/Gymgenuis/static/js/main.fbd3bd1f.js",
+    "static/media/banner.jpg": "/Gymgenuis/static/media/banner.f12c1aee904bdb91b3f9.jpg",
+    "static/media/Logo.png": "/Gymgenuis/static/media/Logo.8b57a9e5346cc7931a62.png",
+    "static/media/gym.png": "/Gymgenuis/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Gymgenuis/index.html",
+    "main.f1ec92ad.css.map": "/Gymgenuis/static/css/main.f1ec92ad.css.map",
+    "main.fbd3bd1f.js.map": "/Gymgenuis/static/js/main.fbd3bd1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ec92ad.css",
+    "static/js/main.fbd3bd1f.js"
+  ]
+}
