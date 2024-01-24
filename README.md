@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-// Need to add a link and screenshot.
+//exercises page is not functioning.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
