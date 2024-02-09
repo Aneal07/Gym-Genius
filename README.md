@@ -22,6 +22,7 @@ GymGenius is a web application that allows users to search for exercises based o
 - **React:** Frontend framework for building the user interface.
 - **React Router:** Navigation for the single-page application.
 - **Material-UI:** React UI framework for styling components.
+- **Rapid API:** Fetching exercise videos.
 - **YouTube API:** Fetching exercise-related videos.
 
 ## Getting Started
