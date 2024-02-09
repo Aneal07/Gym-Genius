@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Gymgenuis/static/css/main.f1ec92ad.css",
-    "main.js": "/Gymgenuis/static/js/main.fbd3bd1f.js",
-    "static/media/banner.jpg": "/Gymgenuis/static/media/banner.f12c1aee904bdb91b3f9.jpg",
-    "static/media/Logo.png": "/Gymgenuis/static/media/Logo.8b57a9e5346cc7931a62.png",
-    "static/media/gym.png": "/Gymgenuis/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/Gymgenuis/index.html",
-    "main.f1ec92ad.css.map": "/Gymgenuis/static/css/main.f1ec92ad.css.map",
-    "main.fbd3bd1f.js.map": "/Gymgenuis/static/js/main.fbd3bd1f.js.map"
+    "main.css": "/static/css/main.f1ec92ad.css",
+    "main.js": "/static/js/main.c39e3026.js",
+    "static/media/Logo.png": "/static/media/Logo.19a2ba765578e15e4074.png",
+    "static/media/banner.jpg": "/static/media/banner.f46db8e2b72eb7c37b04.jpg",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.f1ec92ad.css.map": "/static/css/main.f1ec92ad.css.map",
+    "main.c39e3026.js.map": "/static/js/main.c39e3026.js.map"
   },
   "entrypoints": [
     "static/css/main.f1ec92ad.css",
-    "static/js/main.fbd3bd1f.js"
+    "static/js/main.c39e3026.js"
   ]
 }
