@@ -1,4 +1,5 @@
 # GymGenius
+#issue while running the deploy page- need to debug
 
 GymGenius is a web application that allows users to search for exercises based on specific criteria such as cardio, upper body, and more. Users can view detailed information about each exercise and discover similar exercises.
 
