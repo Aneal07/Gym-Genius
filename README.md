@@ -1,5 +1,5 @@
 # GymGenius
-#need to upgrade the API.
+#need to upgrade the API & link is not working.
 
 GymGenius is a web application that allows users to search for exercises based on specific criteria such as cardio, upper body, and more. Users can view detailed information about each exercise and discover similar exercises.
 
