@@ -1,4 +1,4 @@
-##reloading page in not working
+##reloading page is not working/need to debug the function.
 
 # GymGenius
 
